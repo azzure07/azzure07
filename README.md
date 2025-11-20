@@ -1,7 +1,11 @@
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azzure_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azure-behera-45794531b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azurebehera07@gmail.com) 
+
 
 
 # 💻 Tech Stack:
